@@ -1,13 +1,9 @@
-# 기술면접
+# interview
 
 질문 유형마다 맞는 답변 포맷이 다르다. 하나의 틀로 다 밀어붙이면 오히려 안 맞는 경우가 많아서, 유형별로 나눠서 정리해봤다.
 
-- [1. CS/지식형](./prep/1-cs) — "~에 대해 설명해주세요" 류
-- [2. 프로젝트 경험](./prep/2-project) — "왜 그렇게 했나요" 류
-- [3. 행동/인성](./prep/3-behavioral) — 기술과 무관한 협업/태도 질문
-- [4. 라이브 코딩](./prep/4-coding)
-- [5. 시스템 설계](./prep/5-system-design)
-
-질문을 듣자마자 이 중 어디에 속하는지부터 판단하고 포맷을 고른다. 예를 들어 "RDB를 왜 쓰나요"는 1번이지만, "이 프로젝트에서 왜 RDB를 썼나요"는 2번이다.
-
-`prep/`은 유형별 연습 포맷이고, [`review/`](./review)는 실제 면접에서 받은 기출 질문과 회고를 모아두는 곳이다.
+- [cs](./prep/cs) - 지식 관련
+- [project](./prep/project) - 프로젝트 관련
+- [behavioral](./prep/behavioral) - 인성 관련
+- [coding](./prep/coding) - 라이브 코딩 관련
+- [system-design](./prep/system-design) - 시스템 디자인 관련
