@@ -2,8 +2,12 @@
 
 질문 유형마다 맞는 답변 포맷이 다르다. 하나의 틀로 다 밀어붙이면 오히려 안 맞는 경우가 많아서, 유형별로 나눠서 정리해봤다.
 
-- [cs](./prep/cs) - 지식 관련
-- [project](./prep/project) - 프로젝트 관련
-- [behavioral](./prep/behavioral) - 인성 관련
-- [coding](./prep/coding) - 라이브 코딩 관련
-- [system-design](./prep/system-design) - 시스템 디자인 관련
+## 구조
+
+- [prep](./prep) - 질문 유형별 답변 포맷과 다음에 쓸 글 TODO
+    - [cs](./prep/cs) - 지식 관련
+    - [project](./prep/project) - 프로젝트 관련
+    - [behavioral](./prep/behavioral) - 인성 관련
+    - [coding](./prep/coding) - 라이브 코딩 관련
+    - [system-design](./prep/system-design) - 시스템 디자인 관련
+- [review](./review) - 실제 면접 회고 (질문에 대한 기술 답변은 prep에서 다룸)
