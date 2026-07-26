@@ -5,9 +5,4 @@
 ## 구조
 
 - [prep](./prep) - 질문 유형별 답변 포맷과 다음에 쓸 글 TODO
-    - [cs](./prep/cs) - 지식 관련
-    - [project](./prep/project) - 프로젝트 관련
-    - [behavioral](./prep/behavioral) - 인성 관련
-    - [coding](./prep/coding) - 라이브 코딩 관련
-    - [system-design](./prep/system-design) - 시스템 디자인 관련
 - [review](./review) - 실제 면접 회고 (질문에 대한 기술 답변은 prep에서 다룸)
