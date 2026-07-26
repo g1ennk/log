@@ -5,3 +5,12 @@
 ## 포맷
 
 상황 → 선택 → 실행 → 결과
+
+## 다음에 쓸 글
+
+- [ ] Access/Refresh Token 저장 위치 선택 이유
+- [ ] RT Reuse Detection과 동시 refresh 처리
+- [ ] Redis Pub/Sub 유실과 snapshot 순서 보장
+- [ ] Timer InnoDB deadlock 실제 해결 과정 (catch-retry)
+- [ ] GCP VM 사양 판단 근거
+- [ ] Docker layer cache 최적화
