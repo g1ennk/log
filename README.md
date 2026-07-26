@@ -9,3 +9,4 @@
             - [GC 알고리즘은 어떤 것이 있나요?](./interview/prep/cs/os/260726-gc-algorithm.md)
     - [review](./interview/review)
         - [260723](./interview/review/260723.md)
+        - [260724](./interview/review/260724.md)
