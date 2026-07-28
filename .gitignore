@@ -1,5 +1,6 @@
 CLAUDE.md
 .idea/
 /.obsidian/
-interview/prep/cs/_template.md
+.claude/
+interview/prep/*/_template.md
 interview/review/_template.md
