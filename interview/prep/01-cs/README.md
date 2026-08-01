@@ -18,6 +18,6 @@
 ## 면접 기출
 
 - [ ] REST API
-- [ ] IoC와 DI
+- [x] IoC와 DI
 - [ ] DispatcherServlet
 - [ ] Primitive Type과 Reference Type, 두 타입의 메모리 배치
