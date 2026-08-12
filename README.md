@@ -25,6 +25,8 @@
                 - [자바에서 Checked Exception과 Unchecked Exception에 대해서 설명해주세요.](interview/prep/01-cs/java/03-checked-unchecked-exception.md)
                 - [Call By Value와 Call By Reference에 대해서 설명해주세요.](interview/prep/01-cs/java/04-call-by-value-reference.md)
                 - [동일성과 동등성에 대해서 설명해주세요.](interview/prep/01-cs/java/05-identity-equality.md)
+                - [equals와 hashCode는 왜 함께 재정의해야 할까요?](interview/prep/01-cs/java/06-equals-hashcode.md)
+                - [String 객체는 가변일까요, 불변일까요?](interview/prep/01-cs/java/07-string-immutable.md)
             - [spring](./interview/prep/01-cs/spring)
                 - [Spring과 Spring Boot의 차이를 말해주세요.](interview/prep/01-cs/spring/01-spirng-vs-springboot.md)
                 - [IoC 컨테이너란 무엇인가요?](interview/prep/01-cs/spring/02-ioc-container.md)
