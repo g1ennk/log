@@ -68,6 +68,15 @@
             - [트랜잭션 격리수준에 대해서 설명해주세요.](interview/prep/01-cs/db/03-isolation-level.md)
             - [데이터베이스 인덱스에 대해서 설명해주세요.](interview/prep/01-cs/db/04-db-index.md)
             </details>
+        - [02-credentials](./interview/prep/02-credentials)
+            <details>
+            <summary><a href="./interview/prep/02-credentials/question-bank">question-bank</a></summary>
+
+            - [S+ 대표 성과 방어](interview/prep/02-credentials/question-bank/s-plus.md)
+            - [S 핵심 확장](interview/prep/02-credentials/question-bank/s.md)
+            - [A 심층 확인·운영](interview/prep/02-credentials/question-bank/a.md)
+            - [B 기본기 확장](interview/prep/02-credentials/question-bank/b.md)
+            </details>
         <details>
         <summary><a href="./interview/review">review</a></summary>
 
