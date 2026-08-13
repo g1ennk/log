@@ -8,7 +8,7 @@
     - [prep](./interview/prep)
         - [01-cs](./interview/prep/01-cs)
             <details>
-            <summary><a href="./interview/prep/01-cs/network">network</a> (5)</summary>
+            <summary><a href="./interview/prep/01-cs/network">network</a></summary>
 
             - [TCP와 UDP의 차이점은 무엇인가요?](interview/prep/01-cs/network/01-tcp-udp.md)
             - [TCP 3-way handshake에 대해서 설명해주세요.](interview/prep/01-cs/network/02-3-way-handshake.md)
@@ -17,13 +17,13 @@
             - [네트워크에서 회선 교환 방식과 패킷 교환 방식은 어떤 차이점 있나요?](interview/prep/01-cs/network/05-circuit-packet.md)
             </details>
             <details>
-            <summary><a href="./interview/prep/01-cs/os">os</a> (2)</summary>
+            <summary><a href="./interview/prep/01-cs/os">os</a></summary>
 
             - [GC 알고리즘은 어떤 것이 있나요?](interview/prep/01-cs/os/01-gc-algorithm.md)
             - [왜 코루틴 방식이 기존 스레드 방식보다 가벼운지 설명해주세요.](interview/prep/01-cs/os/02-coroutine.md)
             </details>
             <details>
-            <summary><a href="./interview/prep/01-cs/java">java</a> (14)</summary>
+            <summary><a href="./interview/prep/01-cs/java">java</a></summary>
 
             - [자바 실행 흐름](interview/prep/01-cs/java/01-java-execution-flow.md)
             - [JVM의 장단점](interview/prep/01-cs/java/02-jvm.md)
@@ -42,7 +42,7 @@
             - [이진 트리에 대해서 설명해 주세요.](interview/prep/01-cs/java/12-binary-tree.md)
             </details>
             <details>
-            <summary><a href="./interview/prep/01-cs/spring">spring</a> (15)</summary>
+            <summary><a href="./interview/prep/01-cs/spring">spring</a></summary>
 
             - [Spring과 Spring Boot의 차이를 말해주세요.](interview/prep/01-cs/spring/01-spirng-vs-springboot.md)
             - [IoC 컨테이너란 무엇인가요?](interview/prep/01-cs/spring/02-ioc-container.md)
@@ -61,7 +61,7 @@
             - [@Value 어노테이션 사용 시 주의할 점을 설명해주세요.](interview/prep/01-cs/spring/15-value-annotation.md)
             </details>
             <details>
-            <summary><a href="./interview/prep/01-cs/db">db</a> (4)</summary>
+            <summary><a href="./interview/prep/01-cs/db">db</a></summary>
 
             - [관계형 데이터베이스와 비 관계형 데이터베이스의 차이점은 무엇인가요?](interview/prep/01-cs/db/01-rdb-vs-nosql.md)
             - [ACID에 대해서 설명해주세요.](interview/prep/01-cs/db/02-acid.md)
@@ -69,7 +69,7 @@
             - [데이터베이스 인덱스에 대해서 설명해주세요.](interview/prep/01-cs/db/04-db-index.md)
             </details>
         <details>
-        <summary><a href="./interview/review">review</a> (3)</summary>
+        <summary><a href="./interview/review">review</a></summary>
 
         - [260723](./interview/review/260723.md)
         - [260724](./interview/review/260724.md)
