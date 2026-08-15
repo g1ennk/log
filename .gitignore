@@ -4,4 +4,5 @@ CLAUDE.md
 .claude/
 interview/prep/*/_template.md
 interview/review/_template.md
+interview/prep/02-credentials/answers/
 /docs/
